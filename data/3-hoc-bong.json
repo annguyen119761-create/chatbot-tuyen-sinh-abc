@@ -1,0 +1,21 @@
+
+{
+    "hoc_bong": [
+        {
+            "ten_hoc_bong": "Học bổng Thủ khoa",
+            "doi_tuong": "Sinh viên có kết quả đầu vào cao nhất.",
+            "gia_tri": "100% học phí học kỳ đầu tiên."
+        },
+        {
+            "ten_hoc_bong": "Học bổng Tài năng",
+            "doi_tuong": "Sinh viên có thành tích học tập và hoạt động nổi bật.",
+            "gia_tri": "50% học phí."
+        },
+        {
+            "ten_hoc_bong": "Học bổng Khuyến khích học tập",
+            "doi_tuong": "Sinh viên đạt kết quả học tập tốt.",
+            "gia_tri": "25% học phí."
+        }
+    ],
+    "ghi_chu": "Các chương trình học bổng là dữ liệu giả lập."
+}
