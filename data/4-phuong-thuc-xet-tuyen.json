@@ -1,0 +1,26 @@
+
+{
+    "phuong_thuc_xet_tuyen": [
+        {
+            "ma": "PT01",
+            "ten": "Xét tuyển bằng điểm thi tốt nghiệp THPT",
+            "mo_ta": "Sử dụng kết quả kỳ thi tốt nghiệp THPT."
+        },
+        {
+            "ma": "PT02",
+            "ten": "Xét tuyển học bạ",
+            "mo_ta": "Dựa trên kết quả học tập tại trường THPT."
+        },
+        {
+            "ma": "PT03",
+            "ten": "Xét tuyển thẳng",
+            "mo_ta": "Áp dụng cho thí sinh đáp ứng điều kiện xét tuyển thẳng."
+        },
+        {
+            "ma": "PT04",
+            "ten": "Xét tuyển bằng kết quả đánh giá năng lực",
+            "mo_ta": "Sử dụng kết quả kỳ thi đánh giá năng lực."
+        }
+    ],
+    "ghi_chu": "Các phương thức trên được xây dựng để mô phỏng."
+}
