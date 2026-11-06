@@ -1,0 +1,26 @@
+
+{
+    "faq": [
+        {
+            "cau_hoi": "Trường có những ngành học nào?",
+            "tra_loi": "Trường có các ngành Công nghệ thông tin, Quản trị kinh doanh, Marketing và Ngôn ngữ Anh."
+        },
+        {
+            "cau_hoi": "Học phí của trường là bao nhiêu?",
+            "tra_loi": "Học phí mô phỏng dao động từ 12 đến 15 triệu đồng mỗi học kỳ tùy ngành học."
+        },
+        {
+            "cau_hoi": "Trường có học bổng không?",
+            "tra_loi": "Trường có học bổng Thủ khoa, Tài năng và Khuyến khích học tập."
+        },
+        {
+            "cau_hoi": "Trường có những phương thức xét tuyển nào?",
+            "tra_loi": "Trường mô phỏng 4 phương thức: điểm thi THPT, học bạ, xét tuyển thẳng và đánh giá năng lực."
+        },
+        {
+            "cau_hoi": "Chatbot có thể tư vấn khi nào?",
+            "tra_loi": "Website chatbot có thể truy cập trực tuyến 24/7."
+        }
+    ],
+    "ghi_chu": "Đây là bộ câu hỏi và câu trả lời giả lập."
+}
