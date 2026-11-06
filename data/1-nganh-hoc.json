@@ -1,0 +1,25 @@
+
+{
+    "nganh_hoc": [
+        {
+            "ma_nganh": "7480201",
+            "ten_nganh": "Công nghệ thông tin",
+            "mo_ta": "Đào tạo kiến thức về lập trình, phần mềm và hệ thống máy tính."
+        },
+        {
+            "ma_nganh": "7340101",
+            "ten_nganh": "Quản trị kinh doanh",
+            "mo_ta": "Đào tạo kiến thức về quản lý và điều hành doanh nghiệp."
+        },
+        {
+            "ma_nganh": "7340115",
+            "ten_nganh": "Marketing",
+            "mo_ta": "Đào tạo kiến thức về tiếp thị và truyền thông."
+        },
+        {
+            "ma_nganh": "7220201",
+            "ten_nganh": "Ngôn ngữ Anh",
+            "mo_ta": "Đào tạo kỹ năng sử dụng tiếng Anh trong học tập và công việc."
+        }
+    ]
+}
