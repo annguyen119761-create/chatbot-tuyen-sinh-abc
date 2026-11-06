@@ -1,0 +1,26 @@
+
+{
+    "hoc_phi": [
+        {
+            "nganh": "Công nghệ thông tin",
+            "hoc_phi_hoc_ky": 15000000,
+            "don_vi": "VND"
+        },
+        {
+            "nganh": "Quản trị kinh doanh",
+            "hoc_phi_hoc_ky": 13000000,
+            "don_vi": "VND"
+        },
+        {
+            "nganh": "Marketing",
+            "hoc_phi_hoc_ky": 14000000,
+            "don_vi": "VND"
+        },
+        {
+            "nganh": "Ngôn ngữ Anh",
+            "hoc_phi_hoc_ky": 12000000,
+            "don_vi": "VND"
+        }
+    ],
+    "ghi_chu": "Mức học phí trên là dữ liệu giả lập phục vụ đồ án."
+}
